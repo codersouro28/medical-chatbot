@@ -9,3 +9,12 @@ faiss_cpu
 chainlit
 huggingface_hub
 langchain_community
+langchain-huggingface
+dataclasses-json
+aiofiles    
+lazify    
+starlette 
+filetype 
+literalai 
+chevron
+litralai.filter
